@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ilink-react-app/static/css/main.c269786e.css",
+    "main.css": "/ilink-react-app/static/css/main.2c98f80c.css",
     "main.js": "/ilink-react-app/static/js/main.df3c0cf6.js",
     "static/media/Gilroy-UltraLightItalic.eot": "/ilink-react-app/static/media/Gilroy-UltraLightItalic.a6fc8679f9d9bbc3e3a7.eot",
     "static/media/Gilroy-UltraLightItalic.ttf": "/ilink-react-app/static/media/Gilroy-UltraLightItalic.68a9a27f1aa1261013f3.ttf",
@@ -100,11 +100,11 @@
     "static/media/FactorALight-Regular.woff2": "/ilink-react-app/static/media/FactorALight-Regular.d371ba18015ad0fdb574.woff2",
     "static/media/spline.svg": "/ilink-react-app/static/media/spline.36d19b0d5ce39746ea8a.svg",
     "index.html": "/ilink-react-app/index.html",
-    "main.c269786e.css.map": "/ilink-react-app/static/css/main.c269786e.css.map",
+    "main.2c98f80c.css.map": "/ilink-react-app/static/css/main.2c98f80c.css.map",
     "main.df3c0cf6.js.map": "/ilink-react-app/static/js/main.df3c0cf6.js.map"
   },
   "entrypoints": [
-    "static/css/main.c269786e.css",
+    "static/css/main.2c98f80c.css",
     "static/js/main.df3c0cf6.js"
   ]
 }
